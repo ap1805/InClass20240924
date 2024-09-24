@@ -3,7 +3,6 @@
 # with my peers.
 
 
-from xml.dom.expatbuilder import makeBuilder
 
 
 def demo():
